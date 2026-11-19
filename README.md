@@ -7,10 +7,10 @@ A responsive, full-stack **PHP 8.0+ and MySQL** e-commerce web application devel
 | # | Member Name | GitHub Username | Key Responsibilities & Modules |
 | :--- | :--- | :--- | :--- |
 | 1 | **Savindu Gihan Perera** | `@SavinduGihan` | Project Architecture, PDO Database Integration (`config/db.php`), Main Storefront (`index.php`), & GitHub Repository Management |
-| 2 | **Denuwan Amarathunga** | `@senurirubasinghege` | MySQL Schema Design (`database.sql`), 68-Product LKR Pricing & Seeding, & `.webp` Asset Standardization |
+| 2 | **Denuwan Amarathunga** | `@DenuwanCA` | MySQL Schema Design (`database.sql`), 68-Product LKR Pricing & Seeding, & `.webp` Asset Standardization |
 | 3 | **Tharushi Amasha Devindi** | `@TharushiAmasha` | Responsive UI/UX Styling (`styles.css`), Ivory/Burgundy/Gold Theme System, & Shared Layout (`includes/layout.php`) |
 | 4 | **Janadi Vidanagamage** | `@Janadividanagamage` | Live Auto-Suggest Search, Occasion Filtering, & Selection Bag Cart + WhatsApp Checkout (`script.js`) |
-| 5 | **Senuri Rubasinghege** | `@DenuwanCA` | Dedicated Collection Views (`collections/*.php`), Custom Contact Page (`contact.php`), & QA Testing |
+| 5 | **Senuri Rubasinghege** | `@senurirubasinghege` | Dedicated Collection Views (`collections/*.php`), Custom Contact Page (`contact.php`), & QA Testing |
 
 ## Key Features
 
